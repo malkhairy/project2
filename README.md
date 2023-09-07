@@ -17,4 +17,4 @@ My client inventory should reflect the above results. Client is advised to have 
 - Low mileage
 - Finally, advised to stack cars from the following manufacturers: Ford, Chevrolet, and Toyota
 
-Full details can be found at jupyter notebook located @: 
+Full details can be found at jupyter notebook located @: https://github.com/malkhairy/project2/blob/afde330df45fb35c4e22b0190f8ed989cf89f1ff/prompt_II.ipynb
